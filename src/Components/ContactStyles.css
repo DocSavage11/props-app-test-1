@@ -1,0 +1,48 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    background-color: white;
+    font-style: "";
+}
+
+.Contact-Card {
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+
+    padding: 20px;
+
+    margin: auto;
+    margin-top: 25%;
+
+    height: 600px;
+    width: 350px;
+}
+
+#ProfilePicture {
+    margin: auto;
+    margin-top: 20px;
+    
+    height: auto;
+    width: 100%;
+}
+
