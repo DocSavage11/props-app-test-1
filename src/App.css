@@ -1,0 +1,11 @@
+.contacts {
+    border: 1px solid black;
+
+    display: flex;
+
+    margin: auto;
+    margin-top: 10%;
+
+    height: 700px;
+    width: 90%;
+}
